@@ -1,6 +1,6 @@
 # Chat-room
 Network chat room based on Linux operating system
-linux网络聊天室项目说明
+##linux网络聊天室项目说明
 	要实现的功能：
 		用户的注册、用户的注销、用户的群聊、用户私聊、消息记录（可选功能）
 	服务端的实现流程：
